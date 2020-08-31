@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    position: fixed;
+    top: 0;
+    height: 75px;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+    background-color: #fff;
+}
+.nav__logo { 
+    object-fit: contain;
+    display: flex;
+    padding-left: 20px;
+    left: 20px;
+    width: 80px;
+    background-image: url('./logo.svg');
+    background-repeat: no-repeat;
+}
+
+.sign-in {
+    position: fixed;
+    display: flex;
+    right: 20px;
+}
