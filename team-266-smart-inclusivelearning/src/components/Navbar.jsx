@@ -7,4 +7,4 @@ export default function Navbar() {
             <button className="sign-in btn btn-primary">Sign In</button>  
         </div>
     )
-};
+}
