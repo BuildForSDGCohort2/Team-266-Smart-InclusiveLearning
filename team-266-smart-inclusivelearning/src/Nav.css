@@ -11,10 +11,12 @@
 .nav__logo { 
     object-fit: contain;
     display: flex;
-    padding-left: 20px;
-    left: 20px;
-    width: 80px;
-    background-image: url('./logo.svg');
+    margin-left: 20px;
+    margin-top: -15px;
+    padding: 20px;
+    height: 150px;
+    width: 100%;
+    background-image: url('./SIL-logo.png');
     background-repeat: no-repeat;
 }
 
